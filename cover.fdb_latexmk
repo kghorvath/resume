@@ -1,0 +1,18 @@
+# Fdb version 4
+["pdflatex"] 1684197019 "c:/Users/kamin/OneDrive/Build/resume/resume/cover.tex" "cover.pdf" "cover" 1684197020 2
+  "c:/Users/kamin/OneDrive/Build/resume/resume/cover.tex" 1684197016 334 4e7f5b742fbbd3b376b5c9b488a99baf ""
+  "c:/texlive/2022/texmf-dist/tex/latex/base/letter.cls" 1672975870 13728 74a484407bc362706099c1e318859ec2 ""
+  "c:/texlive/2022/texmf-dist/tex/latex/base/size10.clo" 1672975870 8448 c33a4e1cb35cee9b33c2b21033b73e39 ""
+  "c:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty" 1672975414 1656 7e824878bad4df5a3e8bba4e463d9126 ""
+  "c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1672975853 30426 f2fb69fcda4dc35ed0b7dee211bce679 ""
+  "c:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty" 1672975856 6107 386d6336ccdc5637fb2ac440a8c4ecaa ""
+  "c:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1672975857 6812 c155095bd0101370166071972167f9ce ""
+  "c:/texlive/2022/texmf-dist/web2c/texmf.cnf" 1672974416 40171 cdab547de63d26590bebb3baff566530 ""
+  "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1672977442 7874714 ada0ef8424ca96642aa2611abac5bd95 ""
+  "c:/texlive/2022/texmf.cnf" 1672977273 713 e69b156964470283e0530f5060668171 ""
+  "cover.aux" 1684197019 34 3985256e7290058c681f74d7a3565a19 ""
+  "cover.tex" 1684197016 334 4e7f5b742fbbd3b376b5c9b488a99baf ""
+  (generated)
+  "cover.log"
+  "cover.pdf"
+  (rewritten before read)
